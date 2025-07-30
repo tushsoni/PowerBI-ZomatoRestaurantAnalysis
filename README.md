@@ -22,4 +22,4 @@ Zomato dataset
 
 📁 File Included:
 .pbix Power BI dashboard file
-Screenshots and visuals of the dashboard
+Dashboard Screenshot, Data Set, and visuals of the dashboard
